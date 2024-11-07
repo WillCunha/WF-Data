@@ -1,0 +1,20 @@
+{
+    "name": "wfsoft/wfdata",
+    "description": "Minerador de dados.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
+    },
+    "authors": [
+        {
+            "name": "WF Soft"
+        }
+    ],
+    "require": {}
+    
+}
